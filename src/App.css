@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px grey;
+  margin-top: 10px;
+}
+
+.block{
+ text-align: center;
+ background-color: bisque;
+ margin-bottom: 30px;
+ border-radius: 30px;
+}
+
+.block:hover {
+  background-color: lightgreen; 
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); 
+}
+
+p{
+  display: inline-block;
+  width: 1000px;
+  text-align: justify;
+  margin-left: 20px;
+  font-size: 1.1rem;
+}
+
+h1{
+  font-size: 2.5rem;
+}
+
+body{
+  padding: 0 40px 0 40px;
+}
